@@ -1,0 +1,11 @@
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\bin\Debug\Informer.exe.config
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\bin\Debug\Informer.exe
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\bin\Debug\Informer.pdb
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.csprojResolveAssemblyReference.cache
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.Form1.resources
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.Properties.Resources.resources
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.csproj.GenerateResource.Cache
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.exe
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.pdb
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\bin\Debug\Newtonsoft.Json.xml
+D:\YandexDisk\dev.sanekxxx4.ru\c#\Informer\new\Informer\Informer\obj\Debug\Informer.Form2.resources
